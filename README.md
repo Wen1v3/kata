@@ -1,3 +1,6 @@
+# This project is helpful if you want to build shopping cart rule editor like this (from Magento):
+![image](https://github.com/user-attachments/assets/0580dff0-d378-480b-98d8-bd350b82f98c)
+
 # To realize the flexibility when adding new styles of pricing rules in the future:
 Please see rules.js file. With the sample rule in it, users can easily create a new rule if they understand JSON.
 
